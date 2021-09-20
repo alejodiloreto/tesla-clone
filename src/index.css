@@ -11,6 +11,14 @@ body {
   overflow-x: hidden;
 }
 
+p {
+  color: #5c5d61;
+}
+
+a {
+  text-decoration: none;
+}
+
 @keyframes animateDown {
   0%,
   20%,
